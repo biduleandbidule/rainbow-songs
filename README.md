@@ -3,3 +3,5 @@
 Songs about rainbows
 
 Another boring line
+
+Hello, world!
